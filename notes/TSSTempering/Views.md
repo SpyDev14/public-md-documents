@@ -11,8 +11,6 @@ ProductDetailView(BRMDetailView, !FormMixin)
 - `all` Products `without` $this
 - `form` FeedbackRequest
 
-ProductListView(PBLV)
-
 ProjectDetailView(BRMDetailView)
 - `one` Project `who` next in order after $this
 
@@ -25,3 +23,4 @@ ProjectListView(PBLV)
 ArticleDetailView(BRMDetailView)
 ArticleListView(PBLV)
 - @filters by `category`
+- `all` ArticleGroups
