@@ -189,12 +189,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ff53a6acf6c7c556",
+  "active": "4cc23a80a5447e15",
   "lastOpenFiles": [
+    "pull.bat",
+    "Новый текстовый документ.txt",
     "notes/Идеи1.md",
     "notes/Идеи.md",
     "update.bat",
-    "Новый текстовый документ.txt",
     "notes/TSSTempering/План работ.md",
     "notes/TSSTempering/Модели.md",
     "notes/TSSTempering/Views.md",
