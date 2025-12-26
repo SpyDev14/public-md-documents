@@ -1,6 +1,4 @@
-git stash save
-git pull
-git stash pop
+./pull.bat
 git add .
-git commit -m UPDATE
+git commit -m UPDATE || pause
 git push || pause
