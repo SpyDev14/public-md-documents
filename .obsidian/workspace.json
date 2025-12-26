@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "База знаний/It/Документ.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -166,25 +166,26 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c6da6c71e4fae64d",
   "lastOpenFiles": [
+    "Хакатон ТСПК 2025/Архитектура моделей хакатон.md",
+    "Хакатон ТСПК 2025/Фикстуры.md",
+    "Хакатон ТСПК 2025/Email.md",
+    "База знаний/It/Документ.md",
     "notes/Идеи.md",
     "База знаний/It/TODO.md",
     "Без названия 2.base",
     "Без названия 3.base",
     "Без названия 1.base",
     "Без названия.base",
-    "База знаний/It/Документ.md",
     "styles",
     "Новая папка",
-    "Хакатон ТСПК 2025/Архитектура моделей хакатон.md",
     "Хакатон ТСПК 2025/Резюме & Выводы.md",
     "notes/TODO.md",
-    "Хакатон ТСПК 2025/Email.md",
-    "Хакатон ТСПК 2025/Фикстуры.md",
     "Space Station 14",
     "Space Station 14/Metro/Дискорд.md",
     "Space Station 14/Metro/Оружие.md",
