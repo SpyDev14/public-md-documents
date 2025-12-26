@@ -3,4 +3,4 @@ git pull
 git stash pop
 git add .
 git commit -m UPDATE
-git push
+git push || pause
