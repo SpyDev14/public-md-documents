@@ -15,7 +15,7 @@
               "state": {
                 "file": "База знаний/It/Документ.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Документ"
