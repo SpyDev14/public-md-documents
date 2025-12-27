@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/It/TODO.md",
+                "file": "База знаний/It/Документ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Документ"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "555d8790357ea4a1",
   "lastOpenFiles": [
-    "База знаний/It/Документ.md",
     "База знаний/It/TODO.md",
+    "База знаний/It/Документ.md",
     "База знаний/Obsidian & MD.md",
     "It/База знаний/TODO gen 2.md",
     "База знаний/It",
