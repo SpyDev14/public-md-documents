@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/It/Документ.md",
+                "file": "База знаний/Obsidian & MD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Документ"
+              "title": "Obsidian & MD"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "c6da6c71e4fae64d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obsidian & MD.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Obsidian & MD"
             }
           }
         ]
@@ -186,8 +190,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c6da6c71e4fae64d",
+  "active": "555d8790357ea4a1",
   "lastOpenFiles": [
+    "База знаний/Obsidian & MD.md",
     "База знаний/It/Документ.md",
     "База знаний/It/TODO.md",
     "It/База знаний/TODO gen 2.md",
@@ -227,7 +232,6 @@
     "Metro/Оружие.md",
     "Metro/Дискорд.md",
     "Metro/Images/metro-ds-webhook-avatar.png",
-    "Хакатон ТСПК 2025/Архитектура моделей хакатон.md",
     "Хакатон ТСПК 2025",
     "stone_floor.png",
     "riverwater.png",
