@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Obsidian & MD.md",
+                "file": "База знаний/It/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian & MD"
-            }
-          }
-        ]
-      },
-      {
-        "id": "11793b0a86942617",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6da6c71e4fae64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Obsidian & MD.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian & MD"
+              "title": "TODO"
             }
           }
         ]
@@ -192,9 +172,9 @@
   },
   "active": "555d8790357ea4a1",
   "lastOpenFiles": [
-    "База знаний/Obsidian & MD.md",
     "База знаний/It/Документ.md",
     "База знаний/It/TODO.md",
+    "База знаний/Obsidian & MD.md",
     "It/База знаний/TODO gen 2.md",
     "База знаний/It",
     "База знаний",
