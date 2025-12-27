@@ -4,150 +4,160 @@
 Поддерживаются в obsidian & markdown
 
 #### `note`
->[!note] Заголовок
+>[!note]
 >Какой-то текст
 #### `info`
->[!info] Заголовок
+>[!info]
 >Какой-то текст
 #### `todo`
->[!todo] Заголовок
+>[!todo]
 >Какой-то текст
 #### `abstract`, `summary`, `tldr`
->[!abstract] Заголовок
+>[!abstract]
 >Какой-то текст
 #### `tip`, `hint`, `important`
->[!tip] Заголовок
+>[!tip]
 >Какой-то текст
 #### `success`, `check`, `done`
->[!success] Заголовок
+>[!success]
 >Какой-то текст
 #### `question`, `help`, `faq`
->[!question] Заголовок
+>[!question]
 >Какой-то текст
 #### `warning`, `caution`, `attention`
->[!warning] Заголовок
+>[!warning]
 >Какой-то текст
 #### `failure`, `fail`, `missing`
->[!failure] Заголовок
+>[!failure]
 >Какой-то текст
 #### `danger`, `error`
->[!danger] Заголовок
+>[!danger]
 >Какой-то текст
 #### `bug`
->[!bug] Заголовок
+>[!bug]
 >Какой-то текст
 #### `example`
->[!example] Заголовок
+>[!example]
 >Какой-то текст
 #### `quote`, `cite`
->[!quote] Заголовок
+>[!quote]
 >Какой-то текст
 
 ### Для теста
 #### `note`
->[!note] Заголовок
+>[!note]
 >Какой-то текст
 
 #### `info`
->[!info] Заголовок
+>[!info]
 >Какой-то текст
 
 #### `todo`
->[!todo] Заголовок
+>[!todo]
 >Какой-то текст
 
 #### `abstract`
->[!abstract] Заголовок
+>[!abstract]
 >Текст
 
 #### `summary`
->[!summary] Заголовок
+>[!summary]
 >Текст
 
 #### `tldr`
->[!tldr] Заголовок
+>[!tldr]
 >Текст
 
 #### `tip`
->[!tip] Заголовок
+>[!tip]
 >Какой-то текст
 
 #### `hint`
->[!hint] Заголовок
+>[!hint]
 >Какой-то текст
 
 #### `important`
->[!important] Заголовок
+>[!important]
 >Какой-то текст
 
 #### `success`
->[!success] Заголовок
+>[!success]
 >Какой-то текст
 
 #### `check`
->[!check] Заголовок
+>[!check]
 >Какой-то текст
 
 #### `done`
->[!done] Заголовок
+>[!done]
 >Какой-то текст
 
 #### `question`
->[!question] Заголовок
+>[!question]
 >Какой-то текст
 
 #### `help`
->[!help] Заголовок
+>[!help]
 >Какой-то текст
 
 #### `faq`
->[!faq] Заголовок
+>[!faq]
 >Какой-то текст
 
 #### `warning`
->[!warning] Заголовок
+>[!warning]
 >Какой-то текст
 
 #### `caution`
->[!caution] Заголовок
+>[!caution]
 >Какой-то текст
 
 #### `attention`
->[!attention] Заголовок
+>[!attention]
 >Какой-то текст
 
 #### `failure`
->[!failure] Заголовок
+>[!failure]
 >Какой-то текст
 
 #### `fail`
->[!fail] Заголовок
+>[!fail]
 >Какой-то текст
 
 #### `missing`
->[!missing] Заголовок
+>[!missing]
 >Какой-то текст
 
 #### `danger`
->[!danger] Заголовок
+>[!danger]
 >Какой-то текст
 
 #### `error`
->[!error] Заголовок
+>[!error]
 >Какой-то текст
 
 #### `bug`
->[!bug] Заголовок
+>[!bug]
 >Какой-то текст
 
 #### `example`
->[!example] Заголовок
+>[!example]
 >Какой-то текст
 
 #### `quote`
->[!quote] Заголовок
+>[!quote]
 >Какой-то текст
 
 #### `cite`
->[!cite] Заголовок
+>[!cite]
 >Какой-то текст
+
+
+> [!NOTE]
+> Это примечание.
+
+> [!WARNING]
+> Это предупреждение.
+
+> [!TIP]
+> Это совет.
